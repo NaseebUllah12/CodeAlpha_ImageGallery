@@ -1,2 +1,21 @@
-# CodeAlpha_ImageGallery
-CodeAlpha_ImageGallery A responsive image gallery built with HTML, CSS, and JavaScript. It displays images in a grid layout with category filtering and lightbox-style preview on click.
+CodeAlpha - Image Gallery
+
+This is a responsive image gallery built using HTML, CSS, and JavaScript. It allows users to view images in a clean layout with lightbox functionality.
+
+ Features
+- Responsive grid layout
+- Lightbox view on click
+- Image filtering (All / Nature / Animals)
+- Smooth hover effects
+
+Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+ Live Demo
+[Add your GitHub Pages link here]
+
+ Screenshots
+![Gallery Preview](assets/gallery-preview.jpg)
+
