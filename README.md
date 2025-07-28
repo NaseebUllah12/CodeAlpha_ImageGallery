@@ -13,9 +13,6 @@ Technologies Used
 - CSS3
 - JavaScript
 
- Live Demo
-[Add your GitHub Pages link here]
-
  Screenshots
 ![Gallery Preview](assets/gallery-preview.jpg)
 
